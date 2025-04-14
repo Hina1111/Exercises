@@ -4,7 +4,7 @@
 int main()
 {
     int n;
-    scanf("%d", &n); // Read number of test cases
+    scanf("%d", &n); 
 
     for (int i = 0; i < n; i++) {
         int a, b;
